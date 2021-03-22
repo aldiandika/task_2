@@ -1,5 +1,7 @@
 # Task 2: Treasure Hunt
 
+This task is part of assessment as Backend Engineer at Evermos.
+
 ## Prologue
 
 Build a simple command-line program for helping the user hunt for a treasure that satisfies the following requirements: 
