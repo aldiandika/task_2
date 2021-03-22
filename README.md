@@ -36,6 +36,9 @@ Build a simple command-line program for helping the user hunt for a treasure tha
     ```
 
 2. Go to directory
+    ```
+    cd task_2
+    ```
 3. Run 
     ```
     python3 task2.py
